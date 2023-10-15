@@ -1,3 +1,51 @@
 Writing Bad Code
 Dont be perfect getting things done.
 
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+  	<meta charset="utf-8">
+  	<meta name="description" content="Your description goes here">
+  	<meta name="keywords" content="one, two, three">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>Blank Template</title>
+
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<header>
+			<nav>
+				<a href="#">courses</a>
+				<form action="#">
+					<input type="text">
+				</form>
+				<h2>khan academy</h2>
+				<ul>
+					<li><a href="#">Donate</a></li>
+					<li><a href="#">Donate</a></li>
+					<li><a href="#">Donate</a></li>
+				</ul>
+			</nav>
+		</header>
+		<main>
+			<section>
+				<img src="khan-academy.png" alt="kids play at computer">
+			</section>
+			<section>
+				<h1>
+					Fot every student, every classroom, real result!
+				</h1>
+				<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo impedit laboriosam quae quaerat voluptatum, amet facilis. Fuga modi obcaecati ullam tenetur, 
+					pariatur ut, cumque natus corporis velit, iste esse. Porro?</p>
+				<a href="#">learners</a>	
+				<a href="#">learners</a>
+				<a href="#">learners</a>
+				<a href="#">learners</a>
+			</section>
+		</main>
+		<script type="text/javascript" src="js/main.js"></script>
+	</body>
+</html>
