@@ -1,1 +1,16 @@
+console.log(window); //window project is the parent object of the browser
+alert(1); === window.alert(1); 
 
+//Single element
+console.log(document.getElementById('my-form')); 
+console.log(document.querySelector('h1'));
+//getElementById--You can pass the id ();
+
+const form = document.getElementById('my-form'); 
+console.log(form);
+
+//Multiple element
+console.log(document.querySelectorAll('.item'));
+//output: NodeList ---> array
+console.log(document.getElementsByClassName('item'));
+//output:html collection
